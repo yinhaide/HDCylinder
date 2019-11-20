@@ -72,7 +72,7 @@ dependencies {
     api library.recyclerview
     /* ******* 工程依赖 ******** */
     //api 'com.github.yinhaide:DHCylinder:0.0.1'
-    api project(':hdcylinder')
+    api project(':cylinder')
     // 架构包,单Activity多Fragment框架(https://github.com/yinhaide/Rocket-master),非常值得推荐学习~
     api 'com.github.yinhaide:Rocket-master:0.0.2'
 }

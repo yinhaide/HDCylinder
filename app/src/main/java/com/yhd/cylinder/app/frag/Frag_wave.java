@@ -1,9 +1,9 @@
-package com.yhd.wave.app.frag;
+package com.yhd.cylinder.app.frag;
 
 import android.view.View;
 
 import com.de.rocket.ue.frag.RoFragment;
-import com.yhd.wave.app.R;
+import com.yhd.cylinder.app.R;
 
 /**
  * 双波浪曲线

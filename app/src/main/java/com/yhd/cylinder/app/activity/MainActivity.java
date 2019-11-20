@@ -1,4 +1,4 @@
-package com.yhd.wave.app.activity;
+package com.yhd.cylinder.app.activity;
 
 import android.graphics.Color;
 
@@ -7,8 +7,8 @@ import com.de.rocket.bean.ActivityParamBean;
 import com.de.rocket.bean.RecordBean;
 import com.de.rocket.bean.StatusBarBean;
 import com.de.rocket.ue.activity.RoActivity;
-import com.yhd.wave.app.R;
-import com.yhd.wave.app.frag.Frag_wave;
+import com.yhd.cylinder.app.R;
+import com.yhd.cylinder.app.frag.Frag_wave;
 
 public class MainActivity extends RoActivity {
 

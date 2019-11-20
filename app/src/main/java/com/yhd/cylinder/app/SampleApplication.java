@@ -1,4 +1,4 @@
-package com.yhd.wave.app;
+package com.yhd.cylinder.app;
 
 import com.de.rocket.app.RoApplication;
 
